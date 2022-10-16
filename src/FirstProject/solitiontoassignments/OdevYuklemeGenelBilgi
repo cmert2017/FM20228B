@@ -4,3 +4,9 @@ Sonra sirayla asagidaki komutlari calistiriniz:
 git add .
 git commit -m "buraya yaptiginiz isi kissaca aciklayan bir mesaj yaziniz"
 sonrada git menusunden push komutunu calistiriniz. 
+Odevleri haftalik buraya yukleyebilirsiniz. 
+Ilk once yukleyeceginiz dosyanin adini siizn adiniz yapiniz. 
+Sonra sirayla asagidaki komutlari calistiriniz:
+git add .
+git commit -m "buraya yaptiginiz isi kissaca aciklayan bir mesaj yaziniz"
+sonrada git menusunden push komutunu calistiriniz. 
