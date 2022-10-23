@@ -1,6 +1,6 @@
 package FirstProject;
 
-public class Hafta1 {
+public class Hafta1_2_3 {
 
 //IDE: ItelliJ IDEA =  text editor  + Compiler +  terminal
 

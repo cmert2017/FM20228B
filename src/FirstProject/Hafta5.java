@@ -111,9 +111,50 @@ public class Hafta5 {
 
         System.out.println("**************dikdortgen alan hesaplama v2*********");
 
+        int uzunluk1 ;
+        int genislik1;
+
+        uzunluk1 = 4;
+        genislik1 = 6;
+
+
+
+
         int uzunluk = 10;
         int genislik = 6;
         int alanDikdortgen = uzunluk * genislik;
+
+
+
+
+
+
+
+
+
+
+
+        int uzunluk2, genislik2;
+
+        uzunluk2 = 4;
+        genislik2 = 6;
+
+
+
+        int _UZUNLUK3, genislik3=6;
+
+        int $UZUNLUK3;
+
+        int UZUNLUK3;
+
+        int uZUNLUK3;
+
+        int dikdortgenin_uzunlugu;
+        int dikdortgenin$uzunlugu;
+        //int dikdortgenin^uzunlugu;
+
+        //keywords de variable ismi olarak kullanilamaz.
+
 
         System.out.println("Birinci dikdortgenin uzunlugu = " + uzunluk);
         System.out.println("Birinci dikdortgenin genisligi = " + genislik);
