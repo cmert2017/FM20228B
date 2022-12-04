@@ -11,6 +11,11 @@ public class Hafta9 {
         int y = 20;
         x =  (y!=10) || (z==false);
 
+
+       // condition logical condition
+
+        // condition relational operator lr ile olusturulur.
+
         //Guess what will be the value of x?
 
         System.out.println("x = " + x);
@@ -21,9 +26,12 @@ public class Hafta9 {
 
 
         //even or odd number
-
+        //Bu biizm MVP miz.
+        //if blogu
         Scanner input = new Scanner(System.in);
-        String result;
+
+
+        String result = null;
         int girilenSayi;
 
 
@@ -31,22 +39,23 @@ public class Hafta9 {
         System.out.println("Bir sayi girin: ");
         girilenSayi = input.nextInt();
 
-
-
         //process: even or odd
-        if(){
+        if(girilenSayi%2==0){
            result = "Even";
+
         }
 
-        if(){
 
+        if(girilenSayi%2!=0){
             result = "Odd";
         }
 
 
-        //output
 
+        //output
         System.out.println("Girdiginiz sayi: " + result);
+
+
 
 
 
