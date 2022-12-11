@@ -36,7 +36,7 @@ public class Hafta12_1 {
 
         //if else blogunu kissaltabilirmiyiz. Evet ternary operator ile.
 
-        String cevap2 = x % 2 == 0 ? "sayimiz ciftir" : "sayimiz tekdir";
+        String cevap2 = x % 2 == 0 ? x + "sayimiz ciftir" : x+ "sayimiz tekdir";
 
         System.out.println("cevap2 = " + cevap2);
 

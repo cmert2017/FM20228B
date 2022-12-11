@@ -2,3 +2,4 @@ Kaynaklar
 1- https://www.w3resource.com/java-exercises/basic/index.php
 2- https://pythontutor.com/render.html#mode=display
 3- https://runestone.academy/ns/books/published/apcsareview/index.html
+4- https://www.examtray.com/java-questions/java-switch-case-interview-mcq-questions-answers
