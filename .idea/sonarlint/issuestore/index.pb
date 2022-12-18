@@ -31,3 +31,7 @@ N
 src/FirstProject/Hafta9_3.java,3/8/38d0ee7a6a212f0579715b855f771c7d71d0de56
 N
 src/FirstProject/Hafta9_2.java,9/b/9bc2a488e8cd264d6057b2feeff1635c68d9cfed
+M
+src/FirstProject/Hafta10.java,c/0/c070e7bfeecee9ea95d14f2214dc5bf2ccf6afbb
+O
+src/FirstProject/Hafta10_1.java,8/c/8c2df14ca7419921499026e814ebc395ddba6d0b
