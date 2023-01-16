@@ -35,3 +35,15 @@ M
 src/FirstProject/Hafta10.java,c/0/c070e7bfeecee9ea95d14f2214dc5bf2ccf6afbb
 O
 src/FirstProject/Hafta10_1.java,8/c/8c2df14ca7419921499026e814ebc395ddba6d0b
+M
+src/FirstProject/Hafta12.java,4/d/4df3b2fd7b13b285dad16c5b90ceee5f526191b3
+O
+src/FirstProject/Hafta12_1.java,2/1/212496ee5febb1ec316f36c38b3d0c930460352d
+I
+src/FirstProject/Dog.java,c/8/c8542a0c6c83757cc459bbe9918319e0f04c91fa
+K
+src/FirstProject/House.java,1/6/166e678a0e37fcc38031f135407a647825b33fe6
+M
+src/FirstProject/Hafta13.java,7/3/734a25ef323f65a3d853eecc4a704da20d4c0066
+l
+<src/FirstProject/solitiontoassignments/OdevYuklemeGenelBilgi,2/8/283818ede5cbb96a5173a6a35f689c9cf80b6800

@@ -62,7 +62,7 @@ public class Hafta14_1 {
 
         // equalsIgnoreCase: ignore case sensitivity
         String s4 = "java";
-        String s5 = "Java";
+        String s5 = "java";
 
         System.out.println(s4.equals(s5));  //false
         System.out.println(s4.equalsIgnoreCase(s5));  //true
