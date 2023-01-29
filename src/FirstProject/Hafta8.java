@@ -46,6 +46,7 @@ public class Hafta8 {
         age = 5;
         int num4 = 6;
         String firstname = "John";
+      //  firstname.c
 
 
         //process

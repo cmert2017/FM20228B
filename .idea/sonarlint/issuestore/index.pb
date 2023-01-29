@@ -9,8 +9,6 @@ M
 src/FirstProject/Clients.java,4/0/40259048398471ccd7817c3f29b908f6f249854c
 L
 src/FirstProject/Hafta5.java,9/d/9dafe244cb2bc244cd41bc9f04d1d46a7278765e
-L
-src/FirstProject/Hafta8.java,1/7/173d97217987f5d455dd6ea6609be5ed21465dc3
 N
 src/FirstProject/Hafta8_1.java,3/c/3c7ba87974a42f356222d7499d8785d5e9907342
 L
@@ -53,3 +51,7 @@ M
 src/FirstProject/Hafta11.java,e/a/eae59fdb05703ea88eeb8a332ac5a1a0901647bd
 S
 #src/ClassesAndMethods/Classes1.java,0/1/01e936de65e9c40a56de6c514a0c100c904bc84e
+b
+2src/FirstProject/Week15_2ndTerm1stClass_Loops.java,1/c/1c4550c3a1e56f47205ad53619decc6e80f06fb8
+X
+(src/FirstProject/Week15_2_WhileLoop.java,b/e/beb16beec0d6a75b3dc69f3c0a0054a28beb9605
