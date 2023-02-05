@@ -2,7 +2,7 @@ package FirstProject;
 
 import java.util.Scanner;
 
-public class Week15_2_WhileLoop {
+public class Hafta15_2_WhileLoop {
 
     public static void main(String[] args) //head - signature
     { //body

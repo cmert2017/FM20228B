@@ -2,7 +2,7 @@ package FirstProject;
 
 import java.util.Scanner;
 
-public class Week15_2ndTerm1stClass_Loops {
+public class Hafta15_2ndTerm1stClass_Loops {
 
 
 
