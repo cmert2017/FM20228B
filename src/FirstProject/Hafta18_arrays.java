@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class Hafta18_arrays {
 
+
+
+
     public static void main(String[] args) {
 
         //
