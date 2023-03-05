@@ -66,8 +66,6 @@ P
 P
  src/FirstProject/Hafta1_2_3.java,7/6/7646a17c6e130940e29006c269a3465908c910ac
 L
-src/FirstProject/Hafta4.java,6/c/6c34920d02a218c1c0682e6ece64f82306db6b48
-L
 src/FirstProject/Hafta8.java,1/7/173d97217987f5d455dd6ea6609be5ed21465dc3
 \
 ,src/FirstProject/Hafta17_1_Nested_loops.java,4/8/48794d6dbdfc5485fbb2417422978b99879b23a0
