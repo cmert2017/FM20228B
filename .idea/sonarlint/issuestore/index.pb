@@ -69,3 +69,21 @@ L
 src/FirstProject/Hafta8.java,1/7/173d97217987f5d455dd6ea6609be5ed21465dc3
 \
 ,src/FirstProject/Hafta17_1_Nested_loops.java,4/8/48794d6dbdfc5485fbb2417422978b99879b23a0
+[
++src/FirstProject/Hafta19_20MultiArrays.java,e/6/e620177bd31f89a5d14051a27f55f0275b3af88b
+T
+$src/FirstProject/Hafta18_arrays.java,7/7/77758dc6b8513e3ff611ba152b8b78d613c61467
+P
+ src/FirstProject/Hafta19_20.java,d/a/da66139f91e8a98613829d0fb910dcc3b1b8c458
+M
+src/FirstProject/Hafta21.java,e/1/e1ce7f72b3d265d9ec46c7a9e951664ab86c6b43
+O
+src/FirstProject/Hafta21_2.java,6/d/6d061f40d0737ef0f61fcc8a64f35719145042b6
+\
+,src/FirstProject/Hafta21_customsMethods.java,c/3/c34a677a37ce57a50b0a666fbc56d70128b72ad9
+L
+src/FirstProject/Hafta4.java,6/c/6c34920d02a218c1c0682e6ece64f82306db6b48
+V
+&src/FirstProject/Hafta16_3_Arrays.java,1/b/1b39ac29742a7e609939317e1a680c61817deb60
+W
+'src/FirstProject/Hafta16_4_Arrays2.java,0/1/01d04ee2b6cae91fa23fa62b4f8ca989c6c21b8c

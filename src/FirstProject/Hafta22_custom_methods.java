@@ -18,6 +18,7 @@ public class Hafta22_custom_methods {
         //NthPower();
 
 
+
         NthPower(2,5);
         NthPower(10,3);
         //int sum = sumOfTwoNumber(7,3);
