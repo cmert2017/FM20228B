@@ -87,3 +87,7 @@ V
 &src/FirstProject/Hafta16_3_Arrays.java,1/b/1b39ac29742a7e609939317e1a680c61817deb60
 W
 'src/FirstProject/Hafta16_4_Arrays2.java,0/1/01d04ee2b6cae91fa23fa62b4f8ca989c6c21b8c
+\
+,src/FirstProject/Hafta22_custom_methods.java,7/9/794f9bbfef58c416172379819fc0ea09ee16d0c1
+M
+src/FirstProject/Hafta23.java,7/4/742c738657f8d154ee77666e0b19943d1c58cfd6
