@@ -13,6 +13,8 @@ public class Hafta24 {
         writer.append('4');
         writer.close();
 
+
+
         //introduction() olusturup online shop iniz icin kullanicaksiniz.
 
 

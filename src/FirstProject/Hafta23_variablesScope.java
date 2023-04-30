@@ -2,12 +2,15 @@ package FirstProject;
 
 public class Hafta23_variablesScope {
 
-    private static int x = 5;
+    //scope of variable: tanimlanma alani
+
+    private static int x = 5;  //global variable
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {  //           { =curly     [  =square     (    =round       <   =angle brackets
+                                             //      USA: { = braces  [ = brackets   (  =parenthesis
 
-       // int x = 5;
+       // int x = 5; //local variable
 
         Add2ToVariable(x);
 
@@ -28,6 +31,13 @@ public class Hafta23_variablesScope {
 
         x = x + 2;
 
+    }
+
+    public static void Add3ToVariable(int y) {
+
+
+
+        System.out.println(x);
     }
 
 
