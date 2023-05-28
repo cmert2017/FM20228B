@@ -24,5 +24,8 @@ public class Kalem {
     //GIT is an application.
     //GIT has three stages: working, staging index, repository
     //use git add to take file from working to staging index.
+    //use git commit to take file from stage to local repo
+    //use git push to take file from local repo to github
+
 
 }
