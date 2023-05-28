@@ -1,40 +1,27 @@
 package FirstProject.Hafta25;
 
-public class Canta {
-    //1-fields: global variable
+public class Silgi {
+    //1-fields
+    //neden private? cevap: encapsulation.
     private String renk = "siyah";  //private demek sadece bu variable'a bu clas sicinde ulasilabilinir.
     private int genislik = 50;
     private int uzunlugu = 80;
-    private String materyel = "deri";
-    private String tip = "sirt";
-   // private int cantaUcreti;
-
-
-
-    public static int cantaSayisi;
-    public static int cantaUcreti = 50;
-
-
-
-
-
-
-
-
+    private String materyel = "kaucuk";
+    private String sekli = "dikdortgen";
+    private String fiyati = "5";
+    private int silgiSayisi = 40;
 
 
     //2-methods
     //A-Constructor
     //constructor is a special method which constructs the object of the class
-    public Canta(String renk, int genislik, int uzunlugu, String materyel, String tip)  {
+    public Silgi(String renk, int genislik, int uzunlugu, String materyel, String sekli){
 
         this.renk = renk;
         this.genislik=genislik;
         this.materyel=materyel;
         this.uzunlugu=uzunlugu;
-        this.tip=tip;
-        //this.cantaUcreti =
-
+        this.sekli=sekli;
     }
 
     /*
@@ -67,23 +54,21 @@ public class Canta {
         this.materyel = materyel;
     }
 
-    public void setTip(String tip) {
-        this.tip = tip;
+    public void setSekli(String sekli) {
+        this.sekli = sekli;
     }
 
-    /*
-    public void setCantaUcreti() {
-        if(uzunlugu==40 && genislik ==80 && materyel=="deri" && tip=="sirt" ) {
-            this.cantaUcreti=200;
-        }else if(uzunlugu==40 && genislik ==80 && materyel=="deri" && tip=="omuz"){
-            this.cantaUcreti=300;
-        }
+    public void setFiyat(String fiyat) {
+        this.fiyati = fiyat;
     }
-     */
+
+    public void setSilgiSayisi(int silgiSayisi) {
+        this.silgiSayisi = silgiSayisi;
+    }
 
 
 
-    //C-getters
+        //C-getters
     public String getRenk() {
         return renk;
     }
@@ -100,12 +85,19 @@ public class Canta {
         return materyel;
     }
 
-    public String getTip() {
-        return tip;
+    public String getSekli() {
+        return sekli;
     }
 
 
+    public String getFiyat() {
+        return fiyati;
+    }
 
+
+    public int getSilgiSayisi() {
+        return silgiSayisi;
+    }
 
 
 
@@ -117,7 +109,7 @@ public class Canta {
                 ", genislik=" + genislik +
                 ", uzunlugu=" + uzunlugu +
                 ", materyel='" + materyel + '\'' +
-                ", tip='" + tip + '\'' +
+                ", sekli='" + sekli + '\'' +
                 '}';
     }
 

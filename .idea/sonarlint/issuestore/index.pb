@@ -91,3 +91,16 @@ W
 ,src/FirstProject/Hafta22_custom_methods.java,7/9/794f9bbfef58c416172379819fc0ea09ee16d0c1
 M
 src/FirstProject/Hafta23.java,7/4/742c738657f8d154ee77666e0b19943d1c58cfd6
+Q
+!src/Parser/JsonParserExample.java,3/3/33c54c3081897fcca7d4a6b0bfc9764c78d074f2
+R
+"src/Parser/JsonParserExample2.java,1/3/13f1429a08c76551b79260d36e5cbfe011484bec
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+M
+src/FirstProject/Hafta24.java,0/c/0c60a419e7dad79834289dcdfec0cb45c11530ff
+\
+,src/FirstProject/Hafta23_variablesScope.java,7/5/754b7dd4a5b64290eaaa959c753afb90cbb10c3a
+L
+src/FirstProject/Hafta7.java,d/8/d85520855f3db3acf9b15e5486a1b21c0151f452
