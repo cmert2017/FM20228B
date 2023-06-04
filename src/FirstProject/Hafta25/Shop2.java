@@ -8,6 +8,8 @@ public class Shop2 {
        // String name= new String("Ahmet");  //non primitive data type
 
        Canta canta1 = new Canta("kirmizi", 30, 40, "polymer", "omuz");
+       canta1.setRenk("kirmizi");
+
 
         /*
         System.out.println(canta1.renk);

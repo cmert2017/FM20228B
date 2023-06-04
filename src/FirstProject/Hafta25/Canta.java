@@ -50,8 +50,14 @@ public class Canta {
      */
 
 
-    //B-setters
-    public void setRenk(String renk) {
+    //--------B-setters
+
+
+    /**
+     * This method sets the renk of the object
+     * @param renk
+     */
+    public  void setRenk(String renk) {
         this.renk = renk;
     }
 
